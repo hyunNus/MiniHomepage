@@ -1,7 +1,7 @@
 <h1 align="center">🙌 Hyunwoo Lee</h1>
 <p align="center">
   <b>AI Engineer | Computer Vision & NLP Enthusiast</b><br>
-  <i>Sign Language → Translation → Counseling Chatbot</i>
+  <i>Develop Counseling Chatbot for Sign Language User</i>
 </p>
 
 ---
